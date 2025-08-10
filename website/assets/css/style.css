@@ -1,3 +1,18 @@
 body{
     background: #BDBDBD;
 }
+
+.texto-superpuesto {
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 96%;
+}
+
+.texto-superpuesto h1 {
+    font-size: 130px;
+}
+
+.texto-superpuesto h3 {
+    font-size: 70px;
+}
